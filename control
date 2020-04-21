@@ -1,0 +1,10 @@
+Package: com.minazuki.stool
+Name: Switcher Tool
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Customize the switcher.
+Depiction: https://minazukidev.github.io/html/SwitcherTool/index.html
+Maintainer: Minazuki <minazukidev@gmail.com>
+Author: Minazuki <minazukidev@gmail.com>
+Section: Tweaks
